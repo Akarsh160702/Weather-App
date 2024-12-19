@@ -39,10 +39,13 @@
     </style>
 </head>
 <body>
+    <div style="text-align: center; margin-top: 20px;">
+        <a href="https://weather-app-1607.netlify.app/" target="_blank" style="font-size: 20px; color: #0066cc; text-decoration: none; border: 2px solid #0066cc; padding: 10px 20px; border-radius: 5px; display: inline-block;">
+            🌐 View Live Deployment: Weather App
+        </a>
+    </div>
 
 <h1>Weather App</h1>
-
-<p><a href="https://weather-app-1607.netlify.app/" target="_blank">View Live Project</a></p>
 
 <div class="section">
     <h2>Project Overview</h2>
