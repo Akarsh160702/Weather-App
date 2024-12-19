@@ -3,10 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App - README</title>
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f9;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #5372F0;
+        }
+        h1 {
+            border-bottom: 2px solid #5372F0;
+            padding-bottom: 10px;
+        }
+        code {
+            background-color: #e3f2fd;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .code-block {
+            background-color: #e3f2fd;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        ul {
+            list-style-type: square;
+        }
+    </style>
 </head>
 <body>
 
 <h1>Weather App</h1>
+
+<p><a href="https://weather-app-1607.netlify.app/" target="_blank">View Live Project</a></p>
 
 <div class="section">
     <h2>Project Overview</h2>
