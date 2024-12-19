@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather App - README</title>
+<!--     <title>Weather App - README</title>
     <style>
         body {
             font-family: 'Open Sans', sans-serif;
@@ -36,7 +36,7 @@
         ul {
             list-style-type: square;
         }
-    </style>
+    </style> -->
 </head>
 <body>
 
